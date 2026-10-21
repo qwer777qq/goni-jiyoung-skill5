@@ -4,6 +4,8 @@
 
 ## 설치 · 김지영 팀에 전달
 
+**프로젝트에 바로 넣기:** [project-dropin](project-dropin)의 내용을 프로젝트 최상위에 복사하세요. 공통 [영상 자동화 MD](project-dropin/김지영프로_영상자동화.md)를 Codex `AGENTS.md`와 Claude `CLAUDE.md`가 함께 읽습니다. 기존 지침 파일이 있다면 연결 문단만 합칩니다. 실행 스크립트도 포함되어 있습니다.
+
 Codex에 다음 문장을 그대로 입력하세요.
 
 > https://github.com/qwer777qq/goni-jiyoung-skill5 의 skills/goni-jiyoung-skill5를 설치해 줘
